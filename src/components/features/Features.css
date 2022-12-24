@@ -1,0 +1,9 @@
+.colS{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.colS p{
+    font-size: 2.5rem;
+}
